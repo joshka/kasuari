@@ -1,6 +1,6 @@
 [package]
 name = "kasuari"
-version = "0.4.0-alpha.1"
+version = "0.4.0-alpha.2"
 authors = ["Dylan Ede <dylanede@googlemail.com>", "Josh McKinney"]
 edition = "2021"
 description = """
